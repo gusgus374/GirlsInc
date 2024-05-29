@@ -1,17 +1,13 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import os
-import pathlib
+
 import streamlit as st
 import altair as alt
-
-st.title("My Soccer Scores")
+st.markdown("me name is ella me john cena")
+st.title("Me name is ella john cena")
 
 topGameSpeed = 13.46
 
-st.write(topGameSpeed)
-
-st.write("My top speed times two:")
-
-st.write(topGameSpeed * 2)
+st.write( "my top speedyyyyyyyyy")
+topGameSpeed = 26.92
+st.write("My top speedyyyyyy times two:")
+if st.button("Click me for a celebration"):
+        st.balloons()
