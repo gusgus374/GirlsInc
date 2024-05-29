@@ -4,6 +4,6 @@ st.title("RAYRAM'S TITLE")
 
 st.header("MY TOP SPEED")
 
-4.94
+st.write(4.94)
 
-:)
+st.write(":)")
